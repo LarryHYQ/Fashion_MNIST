@@ -7,6 +7,3 @@
 ### Course:A0600790 Deep Learning
 
 ### Experiment 2:Comparative experiment before and after barch normalization of fashion MNIST classification task
-
-# Fashion_MNIST
-# Fashion_MNIST
